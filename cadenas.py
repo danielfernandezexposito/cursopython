@@ -1,7 +1,7 @@
 # Tipo de dato "String"
-#ejemplo facil 
+# ejemplo facil
 
-a=input("Introduzca su nombre: ")
-b=input("Introduzca su apellido : ")
+a = input("Introduzca su nombre: ")
+b = input("Introduzca su apellido : ")
 
-print("Hola "+a+" "+b);
+print("Hola "+a+" "+b)
